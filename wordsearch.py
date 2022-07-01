@@ -1,6 +1,5 @@
 """
 
-File: regex_machine1.py
 Purpose: This program uses regex to find the number of times
          any instance of the word 'python' (case insensitive) appears in the source.
 
